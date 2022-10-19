@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "380629168260",
+    "project_id": "lwg-android",
+    "storage_bucket": "lwg-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380629168260:android:1b087362d24a7c82ea92d1",
+        "android_client_info": {
+          "package_name": "www.smktelkommlg.sch.id.googlesignin_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380629168260-v959ps0e70u7bm4v33svsvhrep8qjfhg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.smktelkommlg.sch.id.googlesignin_flutter",
+            "certificate_hash": "61a0ea04edbaec85e0e55749caa70c0e40bb75ab"
+          }
+        },
+        {
+          "client_id": "380629168260-dhhof4athgarsu7memvil8g9hfaq0se4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBNxlRiI49ISK5XACec1u7RdHAvvlhB9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380629168260-dhhof4athgarsu7memvil8g9hfaq0se4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380629168260:android:4d5a28a68e09664cea92d1",
+        "android_client_info": {
+          "package_name": "www.smktelkommlg.sch.id.lwg_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380629168260-dhhof4athgarsu7memvil8g9hfaq0se4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBNxlRiI49ISK5XACec1u7RdHAvvlhB9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380629168260-dhhof4athgarsu7memvil8g9hfaq0se4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
